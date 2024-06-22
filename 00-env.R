@@ -1,0 +1,1 @@
+Sys.setenv(`OPENAI_API_KEY`= "SUA CHAVE AQUI")

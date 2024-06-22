@@ -1,0 +1,167 @@
+asset,data_inicio,data_fim,n_dias,prompt,analise
+PETR4,2024-06-03,2024-06-07,4,"Ativo: PETR4
+Empresa: Petrobras
+
+Lista de títulos de notícias:
+                 06/06: Petrobras (PETR4) irá retomar atividades em fábrica de fertilizantes no Paraná paralisada desde 2020 
+ 06/06: Eletrobras vai captar R$ 10,9 bi e Petrobras avalia 'iniciativas verdes' com Sinosure 
+ 06/06: Vale (VALE3) e Petrobras (PETR4) surfam no corte de juros da Zona do Euro
+
+Você está atuando como analista financeiro em 2024-06-07, avaliando a performance recente do ativo PETR4, 
+que registrou uma variação de -4.25% nos últimos 4 dias. Sua tarefa é realizar uma 
+análise focada nos eventos dos últimos 4 dias apresentados na lista acima, fornecendo uma perspectiva 
+fundamentada sobre a situação atual da empresa Petrobras.
+
+Por favor, siga estas diretrizes:
+
+Inicie a análise com uma visão geral clara da situação.
+Mencione a performance do ativo no período.
+Destaque os eventos mais recentes e relevantes.
+Enfatize os contrastes entre diferentes eventos e conclua com uma síntese ponderada.
+Inclua exclusivamente informações que estão presentes neste prompt.
+Evite redundâncias e repetições na resposta.
+Estruture a análise em um parágrafo único.
+
+Modelo da análise: 'Com base nas notícias dos últimos 4 dias... (análise)... Portanto, (conclusão).'","Com base nas notícias dos últimos 4 dias, a Petrobras (PETR4) está passando por um período de atividades e negociações relevantes. A empresa anunciou a retomada das atividades em uma fábrica de fertilizantes no Paraná, após ter sido paralisada desde 2020, o que indica um movimento positivo em sua operação. Além disso, a Petrobras está avaliando 'iniciativas verdes' em parceria com a Eletrobras, mostrando um interesse em práticas sustentáveis. No entanto, os cortes de juros na Zona do Euro parecem ter beneficiado empresas como a Vale, enquanto a Petrobras registrou uma variação negativa de -4.25% nos últimos 4 dias. Portanto, a Petrobras enfrenta um cenário misto, com iniciativas positivas em andamento, mas que ainda não se refletiram diretamente em sua performance no mercado."
+PETR4,2024-06-10,2024-06-14,4,"Ativo: PETR4
+Empresa: Petrobras
+
+Lista de títulos de notícias:
+                 10/06: Petrobras (PETR4) guia ganhos do Ibovespa, mas clima é de cautela antes de Fed 
+ 10/06: Ibovespa oscila com grandes bancos em queda; Vale (VALE3) e Petrobras (PETR4) sobem 
+ 10/06: Petrobras (PETR4) não precisa convocar assembleia-geral, determina conselho de administração 
+ 11/06: Petrobras (PETR3;PETR4) eleva valor a ser pago por ação em proventos 
+ 11/06: Petrobras (PETR4) ajusta valor de ação para dividendos e JCP 
+ 13/06: Petrobras (PETR4) se prepara para explorar novos poços do pré-sal em 2025 
+ 13/06: Petrobras (PETR4) irá perfurar novos poços do pré-sal em 2025 para garantir futuro da bacia de Campos 
+ 13/06: Petrobras (PETR4): exploração na Margem Equatorial pode gerar 30 bilhões de barris de petróleo 
+ 13/06: PetroRecôncavo define pagamento de JCP e Petrobras recontratará trabalhadores da ANSA 
+ 14/06: Presidente da Petrobras indica Fernando Melgarejo como CFO e mais 2 novas diretoras 
+ 14/06: Ativa: o que a indicação de diretor financeiro diz sobre a Petrobras (PETR4)? 
+ 14/06: Petrobras (PETR4) cai em meio a anúncio de nova diretoria 
+ 14/06: Petrobras (PETR4) anuncia indicação de três novos diretores 
+ 14/06: Petrobras (PETR4), Vale (VALE3) e mais 9 ações que ganham com o dólar a R$ 5,40  e outras 6 que perdem
+
+Você está atuando como analista financeiro em 2024-06-14, avaliando a performance recente do ativo PETR4, 
+que registrou uma variação de -5.12% nos últimos 4 dias. Sua tarefa é realizar uma 
+análise focada nos eventos dos últimos 4 dias apresentados na lista acima, fornecendo uma perspectiva 
+fundamentada sobre a situação atual da empresa Petrobras.
+
+Por favor, siga estas diretrizes:
+
+Inicie a análise com uma visão geral clara da situação.
+Mencione a performance do ativo no período.
+Destaque os eventos mais recentes e relevantes.
+Enfatize os contrastes entre diferentes eventos e conclua com uma síntese ponderada.
+Inclua exclusivamente informações que estão presentes neste prompt.
+Evite redundâncias e repetições na resposta.
+Estruture a análise em um parágrafo único.
+
+Modelo da análise: 'Com base nas notícias dos últimos 4 dias... (análise)... Portanto, (conclusão).'","Com base nas notícias dos últimos 4 dias, a Petrobras (PETR4) enfrentou uma série de eventos significativos que impactaram seu desempenho no mercado. Desde a elevação do valor a ser pago por ação em proventos até a notícia da indicação de novos diretores e a queda no preço das ações em meio a esses anúncios, a empresa passou por momentos de volatilidade e incerteza. A notícia mais recente de que a Petrobras se prepara para explorar novos poços do pré-sal em 2025, visando garantir o futuro da bacia de Campos e potencialmente gerar uma grande quantidade de barris de petróleo na Margem Equatorial, mostra uma perspectiva positiva a longo prazo. No entanto, a queda de -5.12% nos últimos 4 dias reflete a cautela dos investidores diante da instabilidade no cenário corporativo da empresa. Portanto, a Petrobras está enfrentando um período de desafios e oportunidades, e os investidores estão atentos à forma como a empresa lidará com essas questões para impulsionar seu desempenho no mercado."
+VALE3,2024-06-03,2024-06-07,4,"Ativo: VALE3
+Empresa: Vale S.A.
+
+Lista de títulos de notícias:
+                 07/06: Vale (VALE3) entra na lista suja do trabalho escravo do governo 
+ 07/06: Apesar da queda de Vale (VALE3), cenário se mostra melhor do que no começo de 2024; veja por que 
+ 07/06: Ibovespa aumenta queda após dados de emprego nos EUA e perde os 121 mil pontos; Vale (VALE3) e Petrobras (PETR4) caem 
+ 07/06: Vale (VALE3) diz que foi incluída por engano em 'lista suja' de trabalho escravo do Ministério do Trabalho 
+ 07/06: 'Mercado errou 100% dos anos', diz CFO da Vale (VALE3) sobre projeções para o minério de ferro
+
+Você está atuando como analista financeiro em 2024-06-07, avaliando a performance recente do ativo VALE3, 
+que registrou uma variação de -2.36% nos últimos 4 dias. Sua tarefa é realizar uma 
+análise focada nos eventos dos últimos 4 dias apresentados na lista acima, fornecendo uma perspectiva 
+fundamentada sobre a situação atual da empresa Vale S.A..
+
+Por favor, siga estas diretrizes:
+
+Inicie a análise com uma visão geral clara da situação.
+Mencione a performance do ativo no período.
+Destaque os eventos mais recentes e relevantes.
+Enfatize os contrastes entre diferentes eventos e conclua com uma síntese ponderada.
+Inclua exclusivamente informações que estão presentes neste prompt.
+Evite redundâncias e repetições na resposta.
+Estruture a análise em um parágrafo único.
+
+Modelo da análise: 'Com base nas notícias dos últimos 4 dias... (análise)... Portanto, (conclusão).'","Com base nas notícias dos últimos 4 dias, Vale (VALE3) enfrentou turbulências com a inclusão na lista suja de trabalho escravo do governo, o que gerou impacto negativo no mercado, contribuindo para a queda de -2.36% no preço das ações. No entanto, a empresa respondeu afirmando que tal inclusão foi um erro. Além disso, houve menções positivas sobre o cenário melhor em comparação ao início de 2024, ressaltando a resiliência do mercado diante de desafios. A visão pessimista do CFO da Vale sobre as projeções para o minério de ferro adiciona uma camada de incerteza. Portanto, a situação atual da Vale S.A. é caracterizada por desafios relacionados à reputação da empresa, contrastados com otimismo em relação ao cenário global, exigindo uma abordagem cautelosa por parte dos investidores."
+VALE3,2024-06-10,2024-06-14,4,"Ativo: VALE3
+Empresa: Vale S.A.
+
+Lista de títulos de notícias:
+                 10/06: Vale Indonesia diz que Febriany Eddy foi renomeada como CEO 
+ 12/06: VALE (VALE3): GOVERNO FEDERAL PODE CHEGAR A ACORDO SOBRE FERROVIAS ESTE MÊS, DIZ MINISTRO 
+ 13/06: Vale (VALE3): CEO faz estimativa para vendas de minério de ferro e destaca transição energética 
+ 13/06: O dólar já subiu 10% em 2024: essas são as 5 ações para lucrar com o real fraco, segundo o BTG Pactual 
+ 14/06: VALE (VALE3): O EVENTO QUE PODE REDUZIR RISCO PARA A MINERADORA, SEGUNDO BBI 
+ 14/06: Vale (VALE3) afirma que procura parceiros para plataforma de energia
+
+Você está atuando como analista financeiro em 2024-06-14, avaliando a performance recente do ativo VALE3, 
+que registrou uma variação de -0.74% nos últimos 4 dias. Sua tarefa é realizar uma 
+análise focada nos eventos dos últimos 4 dias apresentados na lista acima, fornecendo uma perspectiva 
+fundamentada sobre a situação atual da empresa Vale S.A..
+
+Por favor, siga estas diretrizes:
+
+Inicie a análise com uma visão geral clara da situação.
+Mencione a performance do ativo no período.
+Destaque os eventos mais recentes e relevantes.
+Enfatize os contrastes entre diferentes eventos e conclua com uma síntese ponderada.
+Inclua exclusivamente informações que estão presentes neste prompt.
+Evite redundâncias e repetições na resposta.
+Estruture a análise em um parágrafo único.
+
+Modelo da análise: 'Com base nas notícias dos últimos 4 dias... (análise)... Portanto, (conclusão).'","Com base nas notícias dos últimos 4 dias envolvendo a Vale S.A. e seu ativo VALE3, observamos uma série de eventos relevantes. A empresa passou por mudanças em sua gestão na subsidiária indonésia, com a renomeação do CEO, enquanto no Brasil há expectativas sobre um possível acordo do governo federal sobre ferrovias. Além disso, a Vale estimou vendas de minério de ferro e destacou a transição energética. Contudo, há preocupações com a valorização do dólar e seus impactos, sugerindo a busca por parceiros para a plataforma de energia. Apesar da performance negativa no último período, a empresa está buscando reduzir riscos e explorar novas oportunidades, o que reflete um cenário dinâmico para a Vale S.A. e seu ativo VALE3. Portanto, a empresa está respondendo a desafios e aproveitando novas possibilidades, mantendo um equilíbrio entre os diferentes eventos que impactam sua operação."
+PETR4,2024-06-03,2024-06-10,7,"Ativo: PETR4
+Empresa: Petrobras
+
+Lista de títulos de notícias:
+                 06/06: Petrobras (PETR4) irá retomar atividades em fábrica de fertilizantes no Paraná paralisada desde 2020 
+ 06/06: Eletrobras vai captar R$ 10,9 bi e Petrobras avalia 'iniciativas verdes' com Sinosure 
+ 06/06: Vale (VALE3) e Petrobras (PETR4) surfam no corte de juros da Zona do Euro 
+ 10/06: Petrobras (PETR4) guia ganhos do Ibovespa, mas clima é de cautela antes de Fed 
+ 10/06: Ibovespa oscila com grandes bancos em queda; Vale (VALE3) e Petrobras (PETR4) sobem 
+ 10/06: Petrobras (PETR4) não precisa convocar assembleia-geral, determina conselho de administração
+
+Você está atuando como analista financeiro em 2024-06-10, avaliando a performance recente do ativo PETR4, 
+que registrou uma variação de -2.82% nos últimos 7 dias. Sua tarefa é realizar uma 
+análise focada nos eventos dos últimos 7 dias apresentados na lista acima, fornecendo uma perspectiva 
+fundamentada sobre a situação atual da empresa Petrobras.
+
+Por favor, siga estas diretrizes:
+
+Inicie a análise com uma visão geral clara da situação.
+Mencione a performance do ativo no período.
+Destaque os eventos mais recentes e relevantes.
+Enfatize os contrastes entre diferentes eventos e conclua com uma síntese ponderada.
+Inclua exclusivamente informações que estão presentes neste prompt.
+Evite redundâncias e repetições na resposta.
+Estruture a análise em um parágrafo único.
+
+Modelo da análise: 'Com base nas notícias dos últimos 7 dias... (análise)... Portanto, (conclusão).'","Com base nas notícias dos últimos 7 dias, a Petrobras (PETR4) vem enfrentando uma série de eventos relevantes que impactaram sua performance recente. A empresa anunciou a retomada das atividades em uma fábrica de fertilizantes no Paraná, paralisada desde 2020, o que pode indicar um movimento positivo em sua cadeia de produção. Além disso, a empresa está avaliando iniciativas verdes em parceria com a Sinosure, sinalizando um interesse em adotar práticas mais sustentáveis. No entanto, apesar desses desenvolvimentos positivos, o ativo PETR4 registrou uma variação negativa de -2.82% nos últimos 7 dias, mostrando certa volatilidade. Ainda assim, a Petrobras segue guiando os ganhos do Ibovespa, mesmo em um cenário de cautela antes do Fed. Portanto, a empresa parece estar buscando um equilíbrio entre a retomada de suas operações e a busca por iniciativas mais sustentáveis, o que pode impactar sua performance no curto prazo."
+PETR4,2024-06-03,2024-06-10,7,"Ativo: PETR4
+Empresa: Petrobras
+
+Lista de títulos de notícias:
+                 06/06: Petrobras (PETR4) irá retomar atividades em fábrica de fertilizantes no Paraná paralisada desde 2020 
+ 06/06: Eletrobras vai captar R$ 10,9 bi e Petrobras avalia 'iniciativas verdes' com Sinosure 
+ 06/06: Vale (VALE3) e Petrobras (PETR4) surfam no corte de juros da Zona do Euro 
+ 10/06: Petrobras (PETR4) guia ganhos do Ibovespa, mas clima é de cautela antes de Fed 
+ 10/06: Ibovespa oscila com grandes bancos em queda; Vale (VALE3) e Petrobras (PETR4) sobem 
+ 10/06: Petrobras (PETR4) não precisa convocar assembleia-geral, determina conselho de administração
+
+Você está atuando como analista financeiro em 2024-06-10, avaliando a performance recente do ativo PETR4, 
+que registrou uma variação de -2.82% nos últimos 7 dias. Sua tarefa é realizar uma 
+análise focada nos eventos dos últimos 7 dias apresentados na lista acima, fornecendo uma perspectiva 
+fundamentada sobre a situação atual da empresa Petrobras.
+
+Por favor, siga estas diretrizes:
+
+Inicie a análise com uma visão geral clara da situação.
+Mencione a performance do ativo no período.
+Destaque os eventos mais recentes e relevantes.
+Enfatize os contrastes entre diferentes eventos e conclua com uma síntese ponderada.
+Inclua exclusivamente informações que estão presentes neste prompt.
+Evite redundâncias e repetições na resposta.
+Estruture a análise em um parágrafo único.
+
+Modelo da análise: 'Com base nas notícias dos últimos 7 dias... (análise)... Portanto, (conclusão).'","Com base nas notícias dos últimos 7 dias, a Petrobras apresentou uma performance oscilante, com o ativo PETR4 registrando uma variação de -2.82%. A empresa teve destaque ao anunciar a retomada das atividades em uma fábrica de fertilizantes no Paraná, além de avaliar iniciativas verdes em parceria com a Eletrobras. Apesar disso, a cautela do mercado refletiu no clima de negociações, com a Petrobras guiando os ganhos do Ibovespa, mas sem convocar uma assembleia-geral de acionistas. Esses eventos ressaltam a dualidade entre as oportunidades de crescimento da empresa e a volatilidade do cenário econômico. Portanto, a Petrobras permanece sob atenção, com investidores monitorando atentamente seus movimentos e decisões futuras."
