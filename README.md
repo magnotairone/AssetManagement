@@ -1,0 +1,1 @@
+Este repositório mostra a construção de um sistema de inteligência artificial que usa análises geradas pelo ChatGPT (Generative Pre-trained Transformer) para avaliar a performance de ativos financeiros com base em notícias coletadas. O objetivo é utilizar dados históricos e notícias para criar uma análise detalhada da performance de ativos específicos.
