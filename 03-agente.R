@@ -9,22 +9,35 @@ options(readr.show_col_types = FALSE)
 
 # testes das funcoes -----------------------------------------------------------
 topico <- "machine learning"
-obter_resposta_chatgpt(glue("é facil aprender {topico}?"))
+obter_resposta_chatgpt(glue("é facil aprender {topico}?")) |> 
+  cat()
 
 obter_performance(nome_asset = "PETR4",
-                  data_inicio = dmy("05/06/24"),
+                  data_inicio = dmy("04/06/24"),
                   data_fim = dmy("07/06/24"))
 
 gerar_e_salvar_analise(nome_asset = "PETR4",
-                       data_inicio = dmy("05/06/24"),
+                       data_inicio = dmy("04/06/24"),
                        data_fim = dmy("07/06/24"))
+
+resultado <- read_csv("data/analises.csv") |> 
+  filter(data_inicio == dmy("04/06/24"),
+         data_fim == dmy("07/06/24"))
+
+resultado |> 
+  pull(prompt) |> 
+  cat()
+
+resultado |> 
+  pull(analise) |> 
+  cat()
+         
 
 # geracao das analises ---------------------------------------------------------
 assets <- c("PETR4", "VALE3")
+n_dias <- 2
 
-n_dias <- 4
-
-datas <- c(dmy("03/06/24"),
+datas <- c(dmy("05/06/24"),
            dmy("10/06/24"))
 
 for(asset in assets){
@@ -48,6 +61,9 @@ for(asset in assets){
 
 analises <- read_csv("data/analises.csv")
 View(analises)
+
+analises$prompt[17]
+analises$analise[17]
 
 analises$analise[1]
 analises$analise[2]

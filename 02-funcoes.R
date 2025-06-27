@@ -9,7 +9,7 @@ obter_performance <- function(nome_asset, data_inicio, data_fim) {
   }
   
   if(class(data_fim) != "Date"){
-    stop("formato invalido para data_inicio")
+    stop("formato invalido para data_fim")
   }
     
   df_fim <- dados %>% 
@@ -108,9 +108,12 @@ Empresa: {empresa}
 Lista de títulos de notícias:
                  {noticias_formatadas}
 
-Você está atuando como analista financeiro em {data_fim}, avaliando a performance recente do ativo {nome_asset}, 
-que registrou uma variação de {performance$performance}% nos últimos {n_dias} dias. Sua tarefa é realizar uma 
-análise focada nos eventos dos últimos {n_dias} dias apresentados na lista acima, fornecendo uma perspectiva 
+Você está atuando como analista financeiro em {data_fim}, 
+avaliando a performance recente do ativo {nome_asset}, 
+que registrou uma variação de {performance$performance}% 
+nos últimos {n_dias} dias. Sua tarefa é realizar uma 
+análise focada nos eventos dos últimos {n_dias} dias apresentados na 
+lista acima, fornecendo uma perspectiva 
 fundamentada sobre a situação atual da empresa {empresa}.
 
 Por favor, siga estas diretrizes:
@@ -123,7 +126,8 @@ Inclua exclusivamente informações que estão presentes neste prompt.
 Evite redundâncias e repetições na resposta.
 Estruture a análise em um parágrafo único.
 
-Modelo da análise: 'Com base nas notícias dos últimos {n_dias} dias... (análise)... Portanto, (conclusão).'
+Modelo da análise: 'Com base nas notícias dos últimos {n_dias} dias... (análise)...
+Portanto, (conclusão).'
 ")
   
   if(nchar(noticias_formatadas) == 0){

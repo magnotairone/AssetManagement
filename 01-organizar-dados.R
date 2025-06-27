@@ -13,7 +13,7 @@ tibble(file = list.files("data/hist/"),
     asset = str_trim(str_extract(file, "^[^-]+")),  # extrai a parte inicial até o primeiro "-"
     empresa = str_extract(file, "(?<=- ).+?(?= - Histórico)"),  # extrai o nome da empresa entre os traços
     .after = file
-    ) %>% 
+  ) %>% 
   mutate(across(c('abertura', 'fechamento', 'variacao', 'minimo', 'maximo'), 
                 ~str_replace(.x, pattern = ",", replacement = ".")),
          across(c('abertura', 'fechamento', 'variacao', 'minimo', 'maximo'), 
